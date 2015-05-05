@@ -1,7 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/oswynb/Code/anchor-apis/anchor-servant/lib/Servant/Anchor'
-let g:netrw_dirhist_2='/home/oswynb/Code/vaultaire-collector-common/lib/Vaultaire/Collector/Common'
-let g:netrw_dirhist_3='/home/oswynb/.vim/bundle/Vundle.vim'
-let g:netrw_dirhist_4='/home/oswynb/Code/docker-jenkins/jenkins-builder-centos7'
-let g:netrw_dirhist_5='/home/oswynb/Code/docker-jenkins/jenkins-builder-stackage'
